@@ -2,6 +2,11 @@ The project that you have created using React Native is a job search platform th
 
 For each job listing, there is a detailed description that provides information about the job title, job responsibilities, required qualifications, and other relevant details. Job seekers can also apply for jobs directly through the platform.
 
+Poster of Job Search App and Methodology
+
+
+<img src="https://github.com/ParthPrajapati73/Job-Search-App/assets/113522510/4ae4076e-d857-4301-8c43-d75ce4a3a146" width="580" height="773" />
+
 
 <img src="https://user-images.githubusercontent.com/97445793/226334332-dafc12d6-bdc0-42ba-bd53-d18728cfb0c3.jpeg" width="200" height="400" />
 
@@ -13,7 +18,7 @@ For each job listing, there is a detailed description that provides information 
 
 <img src="https://user-images.githubusercontent.com/97445793/226334363-12aaa4ec-c768-43d9-8e69-2b624bf3247b.jpeg" width="200" height="400" />
 
-
+ Also working on futher extension and connect to Goverment job site like  https://ojas.gujarat.gov.in/ to show goverment job .
 
 
 # Expo Router Example
